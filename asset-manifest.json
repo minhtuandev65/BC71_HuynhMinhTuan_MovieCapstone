@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BC71_HuynhMinhTuan_MovieCapstone/static/css/main.ee05227e.css",
+    "main.js": "/BC71_HuynhMinhTuan_MovieCapstone/static/js/main.afcd3b88.js",
+    "static/js/787.e2d4f42d.chunk.js": "/BC71_HuynhMinhTuan_MovieCapstone/static/js/787.e2d4f42d.chunk.js",
+    "static/media/loading.webp": "/BC71_HuynhMinhTuan_MovieCapstone/static/media/loading.c0846632cc2c27668942.webp",
+    "static/media/logo.svg": "/BC71_HuynhMinhTuan_MovieCapstone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/BC71_HuynhMinhTuan_MovieCapstone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BC71_HuynhMinhTuan_MovieCapstone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BC71_HuynhMinhTuan_MovieCapstone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/BC71_HuynhMinhTuan_MovieCapstone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/BC71_HuynhMinhTuan_MovieCapstone/index.html",
+    "static/media/getFetch.cjs": "/BC71_HuynhMinhTuan_MovieCapstone/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.ee05227e.css.map": "/BC71_HuynhMinhTuan_MovieCapstone/static/css/main.ee05227e.css.map",
+    "main.afcd3b88.js.map": "/BC71_HuynhMinhTuan_MovieCapstone/static/js/main.afcd3b88.js.map",
+    "787.e2d4f42d.chunk.js.map": "/BC71_HuynhMinhTuan_MovieCapstone/static/js/787.e2d4f42d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee05227e.css",
+    "static/js/main.afcd3b88.js"
+  ]
+}
